@@ -1,3 +1,1 @@
-## Resources:-
-  * https://stackoverflow.com/questions/4438020/how-to-start-a-python-file-while-windows-starts
-  * 
+Small python script - pushes wintoast notifications every 30 min.
