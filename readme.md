@@ -1,1 +1,1 @@
-Small python script - pushes wintoast notifications every 30 min.
+Small python script - pushes wintoast notifications every 20 min.

@@ -6,4 +6,4 @@ import time
 n = ToastNotifier()
 exit_key_not_pressed = True
 while exit_key_not_pressed:
-    n.show_toast("ALERT - EYE CARE", "GET YOUR EYES OFF OFF THE SCREEN FOR 1 MINUTE!!!!", duration=1800)
+    n.show_toast("ALERT - EYE CARE", "GET YOUR EYES OFF OFF THE SCREEN FOR 1 MINUTE!!!! Look at an object 20 feet away", duration=1200)
